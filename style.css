@@ -1,0 +1,82 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+td{
+    color: black;
+    text-align: center;
+    width: 5vw;
+    border: 1px solid;
+    size: 12px;
+    font-weight: 700;
+}
+.none{
+    border: none;
+}
+
+.color1{
+    background-color: #fda78c;
+}
+.color2{
+    background-color: #ffe0b2;
+}
+.color7{
+    background-color: #a5d6a9;
+}
+.color8{
+    background-color: #fffffd;
+}
+.color6{
+    background-color: #ffccd7;
+}
+.color5{
+    background-color: #d2c3e9;
+}
+.color3{
+    background-color: #ffcc81;
+}
+
+.color4{
+    background-color: #e5ef9b;
+}
+.color9{
+    background-color: #b0e7f8;
+}
+#aaa{
+    position: relative;
+    left: 30px;
+    bottom: 5px;
+}
+#as{
+    position: relative;
+    left: 50px;
+}
+#asa{
+    position: relative;
+    right: 50;
+    top: 20px;
+}
+#para{
+    position: relative;
+    left: 33px;
+    top: 25px;
+}
+#qq{
+    text-align: center;
+    font-style: oblique;
+    font-weight: lighter;
+    text-decoration-style: dotted;
+}
+.ol li:before{
+content: "\0FD7";
+color: #e5ef9b;
+margin-right: 0;
+text-align: center;
+}
+.li :before{
+    content: "\0FD7";
+color:black;
+margin-right: 0;
+text-align: center;
+}
